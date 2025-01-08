@@ -89,15 +89,6 @@ Include screenshots or GIFs of the app. For example:
 
 ---  
 
-## **Roadmap**
-- [ ] Implement calendar integration.
-- [ ] Add sharing options for task lists.
-- [ ] Support multiple languages.
-
-See the [open issues](https://github.com/yourusername/todo-app/issues) for a full list of proposed features and known issues.
-
----  
-
 ## **Contributing**
 Contributions are welcome!
 1. Fork the repository.
