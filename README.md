@@ -111,10 +111,4 @@ Contributions are welcome!
 ## **License**
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----  
 
-## **Acknowledgments**
-- Special thanks to the Flutter community for their extensive resources and support.
-- Inspired by various productivity apps and open-source projects.
-
----
