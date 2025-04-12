@@ -125,7 +125,7 @@ class NotifyHelper {
             priority: Priority.high,
             playSound: true,
             enableVibration: true,
-            sound: UriAndroidNotificationSound('default'), // System default sound
+            sound: UriAndroidNotificationSound('default'), // System default soundgit
           ),
           iOS: DarwinNotificationDetails(
             sound: 'default',
